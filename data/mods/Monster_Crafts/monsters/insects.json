@@ -1,0 +1,29 @@
+[
+  {
+    "id": "mon_ant_acid_soldier_mega",
+    "copy-from": "mon_ant_acid_soldier_mega",
+    "harvest": "giant_acid_ant"
+  },
+  {
+    "id": "mon_ant_soldier_mega",
+    "copy-from": "mon_ant_soldier_mega",
+    "harvest": "giant_ant"
+  },
+  {
+    "id": "mon_wasp_guard",
+    "copy-from": "mon_wasp_guard",
+    "harvest": "giant_wasp"
+  },
+  {
+    "id": "mon_spider_web",
+    "copy-from": "mon_spider_web",
+    "harvest": "arachnid_venemous_spider"
+  },
+  {
+    "id": "mon_spider_wolf_giant",
+    "copy-from": "mon_spider_wolf_giant",
+    "harvest": "arachnid_venemous_spider"
+  }
+]
+
+

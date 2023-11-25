@@ -1,0 +1,40 @@
+[
+  {
+    "id": "dagger_wasp_sting",
+    "type": "TOOL",
+    "name": { "str": "wasp sting dagger" },
+    "description": "A dagger crafted from insect chitin and a vicious wasp sting.  Not exactly a modern combat knife, but it drips with weakening venom.",
+    "weight": "362 g",
+    "volume": "250 ml",
+    "longest_side": "60 cm",
+    "price": 19590,
+    "to_hit": { "grip": "weapon", "length": "short", "surface": "point", "balance": "neutral" },
+    "material": [ "r_chitin" ],
+    "symbol": ";",
+    "color": "dark_gray",
+    "qualities": [ [ "CUT", 2 ], [ "BUTCHER", 15 ] ],
+    "flags": [ "SHEATH_KNIFE", "ALLOWS_BODY_BLOCK" ],
+    "weapon_category": [ "KNIVES" ],
+    "techniques": [ "venom_weaken_stab" ],
+    "melee_damage": { "stab": 20 }
+  },
+  {
+    "id": "dagger_spider_fang",
+    "type": "TOOL",
+    "name": { "str": "spider fang dagger" },
+    "description": "A dagger crafted from insect chitin and a vicious wasp sting.  Not exactly a modern combat knife, but it drips with necrotising venom.",
+    "weight": "420 g",
+    "volume": "250 ml",
+    "longest_side": "60 cm",
+    "price": 19590,
+    "to_hit": { "grip": "weapon", "length": "short", "surface": "point", "balance": "neutral" },
+    "material": [ "r_chitin" ],
+    "symbol": ";",
+    "color": "dark_gray",
+    "qualities": [ [ "CUT", 2 ], [ "BUTCHER", 15 ] ],
+    "flags": [ "SHEATH_KNIFE", "ALLOWS_BODY_BLOCK" ],
+    "weapon_category": [ "KNIVES" ],
+    "techniques": [ "venom_weaken_stab" ],
+    "melee_damage": { "stab": 20 }
+  }
+]
