@@ -515,7 +515,7 @@
   "flags": [ "OUTER","IR_EFFECT" ],
   "price": 92000,
   "price_postapoc": 2500,
-  "material": [ "bone", "steel" ],
+  "material": [ "bone", "plastic" ],
   "weight": "1240 g",
   "volume": "1 L",
   "to_hit": -3,

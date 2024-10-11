@@ -47,5 +47,24 @@
   "burn_products": [ [ "corpse_ash", 0.035 ] ],
   "resist": { "bash": 2.3, "cut": 3.7, "acid": 16, "heat": 4, "bullet": 1.2 },
   "repair_difficulty": 8
+},
+
+{
+  "type": "material",
+  "id": "bone_plating",
+  "category": "spare_parts",
+  "price": 0,
+  "price_postapoc": 25,
+  "name": { "str": "Bone plating" },
+  "symbol": "=",
+  "color": "light_red",
+  "looks_like": "thread",
+  "description": "A large plate of bone removed from a creature with an ossified exoskeleton exoskeleton, can be used as a hard material.",
+  "material": [ "bone" ],
+  "volume": "250 ml",
+  "weight": "1 g",
+  "count": 10,
+  "stack_size": 200
 }
+
 ]
