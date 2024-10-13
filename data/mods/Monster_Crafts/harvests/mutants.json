@@ -1,0 +1,99 @@
+[{
+  "id": "mutant_bird",
+  "copy-from": "mutant_bird",
+  "type": "harvest",
+  "entries": [
+    { "drop": "mutant_meat", "type": "flesh", "mass_ratio": 0.3 },
+    { "drop": "mutant_blood", "type": "blood", "mass_ratio": 0.1 },
+    { "drop": "blood_writhing", "type": "blood", "mass_ratio": 0.025 },
+    { "drop": "mutant_meat_scrap", "type": "flesh", "mass_ratio": 0.05 },
+    { "drop": "mutant_lung", "type": "offal", "mass_ratio": 0.0035 },
+    { "drop": "mutant_liver", "type": "offal", "mass_ratio": 0.01 },
+    { "drop": "mutant_brain", "type": "offal", "mass_ratio": 0.003 },
+    { "drop": "mutant_kidney", "type": "offal", "mass_ratio": 0.002 },
+    { "drop": "bone", "type": "bone", "mass_ratio": 0.05 },
+    { "drop": "feather", "type": "skin", "mass_ratio": 0.01 },
+    { "drop": "down_feather", "type": "skin", "mass_ratio": 0.005 }
+  ]
+},
+{
+  "id": "mutant_bird_flightless",
+  "copy-from": "mutant_bird_flightless",
+  "type": "harvest",
+  "entries": [
+    { "drop": "mutant_meat", "type": "flesh", "mass_ratio": 0.3 },
+    { "drop": "mutant_blood", "type": "blood", "mass_ratio": 0.1 },
+    { "drop": "blood_writhing", "type": "blood", "mass_ratio": 0.025 },
+    { "drop": "mutant_meat_scrap", "type": "flesh", "mass_ratio": 0.03 },
+    { "drop": "mutant_lung", "type": "offal", "mass_ratio": 0.0035 },
+    { "drop": "mutant_liver", "type": "offal", "mass_ratio": 0.01 },
+    { "drop": "mutant_brain", "type": "offal", "mass_ratio": 0.003 },
+    { "drop": "mutant_kidney", "type": "offal", "mass_ratio": 0.002 },
+    { "drop": "mutant_fat", "type": "flesh", "mass_ratio": 0.18 },
+    { "drop": "bone", "type": "bone", "mass_ratio": 0.1 },
+    { "drop": "feather", "type": "skin", "mass_ratio": 0.02 },
+    { "drop": "down_feather", "type": "skin", "mass_ratio": 0.01 }
+  ]
+},
+{
+  "id": "standard_mutant_shellfish",
+  "copy-from": "mutant_shellfish",
+  "type": "harvest",
+  "message": "You crack open its hard shell to get at the flesh beneath.",
+  "entries": [
+    { "drop": "mutant_meat", "type": "flesh", "mass_ratio": 0.32 },
+    { "drop": "mutant_blood", "type": "blood", "mass_ratio": 0.1 },
+    { "drop": "blood_writhing", "type": "blood", "mass_ratio": 0.025 },
+    { "drop": "chitin_piece", "type": "skin", "mass_ratio": 0.1 }
+  ]
+},
+{
+  "id": "large_mutant_shellfish",
+  "copy-from": "mutant_shellfish",
+  "type": "harvest",
+  "message": "You crack open its hard shell to get at the flesh beneath.",
+  "entries": [
+    { "drop": "mutant_meat", "type": "flesh", "mass_ratio": 0.32 },
+    { "drop": "mutant_blood", "type": "blood", "mass_ratio": 0.1 },
+    { "drop": "blood_mutagenic", "type": "blood", "mass_ratio": 0.025 },
+    { "drop": "chitin_piece", "type": "skin", "mass_ratio": 0.1 }
+  ]
+},
+{
+  "id": "huge_mutant_shellfish",
+  "copy-from": "mutant_shellfish",
+  "type": "harvest",
+  "message": "You crack open its hard shell to get at the flesh beneath.",
+  "entries": [
+    { "drop": "mutant_meat", "type": "flesh", "mass_ratio": 0.32 },
+    { "drop": "mutant_blood", "type": "blood", "mass_ratio": 0.1 },
+    { "drop": "blood_protean", "type": "blood", "mass_ratio": 0.025 },
+    { "drop": "chitin_piece", "type": "skin", "mass_ratio": 0.1 }
+  ]
+},
+{
+  "id": "mutant_fish",
+  "copy-from": "mutant_fish",
+  "type": "harvest",
+  "entries": [
+    { "drop": "mutant_meat", "type": "flesh", "mass_ratio": 0.38 },
+    { "drop": "mutant_blood", "type": "blood", "mass_ratio": 0.1 },
+    { "drop": "blood_writhing", "type": "blood", "mass_ratio": 0.025 },
+    { "drop": "mutant_liver", "type": "offal", "mass_ratio": 0.01 },
+    { "drop": "bone", "type": "bone", "mass_ratio": 0.1 }
+  ]
+},
+{
+  "id": "underground_acid",
+  "copy-from": "underground_acid",
+  "//": "acid blood type for underground or digging based creaturs.",
+  "type": "harvest",
+  "entries": [
+    { "drop": "blood_acid_underground", "type": "blood", "mass_ratio": 0.1 },
+    { "drop": "mutant_meat", "type": "flesh", "mass_ratio": 0.36 },
+    { "drop": "mutant_fat", "type": "flesh", "mass_ratio": 0.08 },
+    { "drop": "acidchitin_piece", "type": "bone", "mass_ratio": 0.06 },
+    
+    { "drop": "blood_mutagenic", "type": "blood", "mass_ratio": 0.025 },
+  ]
+}]

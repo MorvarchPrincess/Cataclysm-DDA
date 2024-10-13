@@ -1,0 +1,27 @@
+[
+  {
+    "id": "mon_alpha_razorclaw",
+    "copy-from": "mon_alpha_razorclaw",
+    "harvest": "huge_mutant_shellfish"
+  },
+  {
+    "id": "mon_razorclaw",
+    "copy-from": "mon_razorclaw",
+    "harvest": "large_mutant_shellfish"
+  },
+  {
+    "id": "mon_giant_crayfish",
+    "copy-from": "mon_giant_crayfish",
+    "harvest": "standard_mutant_shellfish"
+  },
+  {
+    "id": "mon_crayfish_giant_larva",
+    "copy-from": "mon_crayfish_giant_larva",
+    "harvest": "standard_mutant_shellfish"
+  },
+  {
+    "id": "mon_crayfish_mega",
+    "copy-from": "mon_crayfish_mega",
+    "harvest": "huge_mutant_shellfish"
+  }
+]
